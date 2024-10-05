@@ -6,6 +6,11 @@ Welcome to the official website of AINFTMONKEY, an innovative NFT project. This 
   <img src="src/assets/s1.png" alt="Image 1" width="50%" />
 </p>
 
+<p align="center">
+  <img src="src/assets/s6.png" alt="Mobile1" width="25%" />
+  <img src="src/assets/s7.png" alt="Mobile2" width="25%" />
+</p>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
